@@ -4,7 +4,7 @@ I'm currently working on my own projects and helping others. I'm learning everyt
 
 ## Projects
 
-More info and live demos: [Abdullah.dev](https://abdullah.dev)
+More info and live demos: [abdullah440.dev](https://abdullah440.dev)
 
 - **Car Rental System** — React, TypeScript, Node.js
 - **Invoice & Order System with Automated Analysis** — HTML, CSS, JavaScript, Node.js, MySQL, Python (OCR)
@@ -47,7 +47,7 @@ Grupp 10
 
 ## Contact
 
-Reach me: abhasan@kth.se or Abdullah.dev
+Reach me: abhasan@kth.se or abdullah440.dev
 
 ---
 
