@@ -18,39 +18,7 @@
 
 ### 🧑‍💻 About Me
 
-</div>
-
-- 🔭 I'm currently working on **my own projects and helping others**
-- 🌱 I'm currently learning **everything in IT**
-- 💬 Ask me about **IT**
-- 📫 How to reach me: **abhasan@kth.se**
-
-<br/>
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullah200305&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14&ring_color=39FF14" alt="Abdullah's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah200305&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14" alt="Top languages" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=Abdullah200305&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=39FF14" alt="GitHub streak stats"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdullah200305/Abdullah200305/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdullah200305/Abdullah200305/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abdullah200305/Abdullah200305/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-<sub>(animation appears after the first push — the snake action needs to run once)</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=900&color=39FF14&center=true&multiline=true&width=720&height=170&lines=%F0%9F%94%AD+Working+on+my+own+projects+%26+helping+others;%F0%9F%8C%B1+Learning+everything+in+IT;%F0%9F%92%AC+Ask+me+about+IT;%F0%9F%93%AB+Reach+me%3A+abhasan%40kth.se+or+Abdullah.dev" alt="pixel about me"/>
 
 </div>
 
