@@ -4,40 +4,47 @@ I'm currently working on my own projects and helping others. I'm learning everyt
 
 ## Projects
 
-<details>
-<summary><strong>KursProjekt</strong> — C</summary>
+More info and live demos: [Abdullah.dev](https://abdullah.dev)
 
-Grupp 10
-Last updated: Aug 17, 2026
-[View on GitHub](https://github.com/Abdullah200305/KursProjekt)
+<details>
+<summary><strong>Car Rental System</strong> — Freelance (Fullstack) · Jul 2026 – Present</summary>
+
+- Built a car rental website with React and TypeScript for the frontend and Node.js for the backend
+- Implemented a booking flow for selecting a car, date, and rental period
+- Connected the system to a database to manage availability, customers, and bookings
 </details>
 
 <details>
-<summary><strong>algoritmer</strong> — Java</summary>
+<summary><strong>Invoice & Order System with Automated Analysis</strong> — Freelance (Fullstack) · Jun 2026 – Present</summary>
 
-Last updated: Mar 19, 2026
-[View on GitHub](https://github.com/Abdullah200305/algoritmer)
+- Built a system for managing invoices, orders, and stock levels using HTML, CSS, and JavaScript for the frontend and Node.js with MySQL for the backend
+- Implemented automatic balance calculation and order data analysis
+- Integrated Python with an OCR library to automatically recognize and read invoices
+- Combined multiple technologies (web + Python/OCR) into one coherent solution for the client
 </details>
 
 <details>
-<summary><strong>lab2_nosql</strong> — Java</summary>
+<summary><strong>E-Commerce Site</strong> — Freelance (Fullstack) · Jun 2026</summary>
 
-Last updated: Dec 25, 2025
-[View on GitHub](https://github.com/Abdullah200305/lab2_nosql)
+- Built an e-commerce site with HTML, CSS, and JavaScript for the frontend and Node.js for the backend
+- Connected the application to a MySQL database to manage products, customers, and orders
+- Implemented product catalog, cart, and order management from scratch through launch
 </details>
 
 <details>
-<summary><strong>lab_databasen</strong> — Java</summary>
+<summary><strong>Portfolio / Business Website</strong> — Freelance (Frontend) · Jun 2026</summary>
 
-Last updated: Dec 25, 2025
-[View on GitHub](https://github.com/Abdullah200305/lab_databasen)
+- Designed and developed a responsive business website with HTML, CSS, and JavaScript
+- Tailored design and content to the client's brand and target audience
+- Ensured fast load times and mobile responsiveness with no frameworks or backend
 </details>
 
 <details>
-<summary><strong>Weather440</strong> — HTML</summary>
+<summary><strong>Multiplayer Game with Client/Server Architecture</strong> — University Project (KTH) · Mar 2026 – May 2026</summary>
 
-Last updated: Feb 27, 2024
-[View on GitHub](https://github.com/Abdullah200305/Weather440)
+- Developed a multiplayer game in C with SDL2 for graphics and rendering
+- Implemented network communication between client and server for real-time updates between players
+- Handled game state synchronization and user input over the network
 </details>
 
 ## Contact
